@@ -7,6 +7,5 @@ src/*.so
 src/*.dll
 src/stories*.bin
 
-# ignore executable files in MacOS
 
 
