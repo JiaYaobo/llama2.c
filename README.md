@@ -1,12 +1,5 @@
 A wrap of [llama2.c](https://github.com/karpathy/llama2.c) with Rcpp.
 
-## Installation
-
-```r
-# install.packages("remotes")
-remotes::install_github("jiayaobo/llama2.r")
-```
-
 ## Example
 
 ```r
