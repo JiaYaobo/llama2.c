@@ -26,3 +26,4 @@ achieved tok/s: 83.6043
 
 - [ ] Add a `chat` function
 - [ ] Add a slot to get `RunState`
+- [ ] Add a wrap of `runq.c`
